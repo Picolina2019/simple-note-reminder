@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-note-reminder/static/css/main.b048b75f.chunk.css",
+    "main.js": "/simple-note-reminder/static/js/main.c9291148.chunk.js",
+    "main.js.map": "/simple-note-reminder/static/js/main.c9291148.chunk.js.map",
+    "runtime-main.js": "/simple-note-reminder/static/js/runtime-main.064c3717.js",
+    "runtime-main.js.map": "/simple-note-reminder/static/js/runtime-main.064c3717.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/simple-note-reminder/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1ef94282.chunk.js": "/simple-note-reminder/static/js/2.1ef94282.chunk.js",
+    "static/js/2.1ef94282.chunk.js.map": "/simple-note-reminder/static/js/2.1ef94282.chunk.js.map",
+    "index.html": "/simple-note-reminder/index.html",
+    "precache-manifest.cf1486444e2fd7fbf33fa7af28add801.js": "/simple-note-reminder/precache-manifest.cf1486444e2fd7fbf33fa7af28add801.js",
+    "service-worker.js": "/simple-note-reminder/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/simple-note-reminder/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b048b75f.chunk.css.map": "/simple-note-reminder/static/css/main.b048b75f.chunk.css.map",
+    "static/js/2.1ef94282.chunk.js.LICENSE.txt": "/simple-note-reminder/static/js/2.1ef94282.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.064c3717.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1ef94282.chunk.js",
+    "static/css/main.b048b75f.chunk.css",
+    "static/js/main.c9291148.chunk.js"
+  ]
+}
